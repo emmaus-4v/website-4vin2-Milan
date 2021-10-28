@@ -3,7 +3,7 @@ Starter template for creating website in gitpod or replit
 
 Deze website is gebaseerd op het template voor 4HV van het Emmauscollege Rotterdam
 
-## Mijn website: *onderwerp*
+## Mijn website: Mars (planeet)
 Gemaakt door: Milan Brinkman
 
 ## Mijn planning
