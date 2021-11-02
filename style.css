@@ -1,6 +1,18 @@
 #p1 {font-family:initial}
 #rood{color:red}
+#h1{
+    position: absolute;
+    right: 850px;
+}
+body {background-color: rgb(26,6,26);
+color:white}
+nav li a.active {
+margin-left:1000px ;
+}
 
+nav li a.hover {
 
+}
+nav li a. {
 
-
+}
