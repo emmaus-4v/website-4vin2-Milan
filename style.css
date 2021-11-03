@@ -1,18 +1,105 @@
-#p1 {font-family:initial}
+#h4 {font-family:initial}
 #rood{color:red}
 #h1{
     position: absolute;
-    right: 850px;
+    right: 550px;
+    width:300px;
 }
-body {background-color: rgb(26,6,26);
+body {background-color: rgb(100, 33, 12);
 color:white}
+}
+#h1G {
+    left:300px;
+}
+#background {
+    background-color: rgb(100, 33, 12);
+    color: white
+}
+#water {
+    color: rgb(37, 109, 123)
+}
+html, body {
+    height: 100%;
+    padding: 0;  
+    
+    color: #ffffff;
+    font: Verdana, Arial, Sans-Serif;
+}
+
+
+main {
+    margin: 0 auto;
+    width: 700px;
+    position: relative;
+}
+
+
+article {
+    text-align: justify;
+}
+
+
+header {
+    color: white;
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+/* specifieke stijlen */
+
+img.zweefLinks {
+    float: left;
+    margin-right: 15px;
+}
+
+.smalltext {
+    font-size: 0.7em;
+}
+
+a {
+    color: skyblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* navigatiebalk */
+nav ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    background-color: #dddddd;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+}
+
+nav li a:hover {
+    background-color: #aaaaaa;
+}
+
 nav li a.active {
-margin-left:1000px ;
+    background-color: skyblue;
 }
 
-nav li a.hover {
 
-}
-nav li a. {
-
-}

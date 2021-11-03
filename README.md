@@ -18,8 +18,8 @@ Stap 1: Start
 - [x] Je hebt de voorbeeld website van de docent gekopieerd naar je eigen github account en het werkt. 
 
 Stap 2: Bestandsstructuur opzetten 
-- [ ] Je hebt bepaald wat je op de hoofdpagina en de subpagina’s (minimaal 4) wilt laten zien.
-- [ ] Je maakt een html-bestand voor alle pagina’s. De titel en het menu staan erop, maar de inhoud nog niet. 
+- [x] Je hebt bepaald wat je op de hoofdpagina en de subpagina’s (minimaal 4) wilt laten zien.
+- [x] Je maakt een html-bestand voor alle pagina’s. De titel en het menu staan erop, maar de inhoud nog niet. 
 - [x] Je hebt een werkend menu waarmee je naar de verschillende pagina’s kunt gaan, de layout kun je later nog aanpassen en mooi maken. 
 
 Stap 3: Lay-out 
