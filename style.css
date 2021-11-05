@@ -19,6 +19,9 @@ color:white}
 #water {
     color: rgb(37, 109, 123)
 }
+#plaatje-Mars {
+    text-align: center;
+}
 html, body {
     height: 100%;
     padding: 0;  
