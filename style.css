@@ -23,6 +23,16 @@ color:white;
 #plaatje-Mars {
     text-align: center;
 }
+#float-left {
+    float:left;
+    width: 60%;
+    padding: 10px;
+}
+#float-right {
+    float: right;
+    width: 35%;
+}
+
 html, body {
     height: 100%;
     padding: 0;  
