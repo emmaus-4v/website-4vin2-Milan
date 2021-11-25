@@ -1,14 +1,12 @@
 #rood{color:red}
 #h1{
-    position: absolute;
-    right: 550px;
- width:300px;
+    text-align: center;
 }
 body {background-color: rgb(100, 33, 12);
 color:white;
 }
 #h1G {
-    left:300px;
+  text-align: center;
 }
 #h3 {
     text-align: center;
@@ -32,7 +30,9 @@ color:white;
     float: right;
     width: 35%;
 }
-
+footer{
+    margin-bottom: 10px;
+}
 html, body {
     height: 100%;
     padding: 0;  
