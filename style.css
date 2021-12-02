@@ -24,11 +24,6 @@ color:white;
 #plaatje-Mars {
     text-align: center;
 }
-#float-left {
-    float:left;
-    width: 60%;
-    padding: 10px;
-}
 #manen {
     float: right;
     width: 30%;
@@ -36,6 +31,14 @@ color:white;
 }
 footer{
     margin-bottom: 3px;
+}
+#tekst-tijd {
+    float: left;
+    width: 60%;
+    border-bottom: white 5px;
+}
+#border {
+    border-bottom: white 5px;
 }
 #plek-planeten {
     clear: both;
@@ -49,12 +52,20 @@ footer{
 }
 ol {
     float: left;
+    margin-top: 20px;
 }
 #kolonisatie-tekst {
     margin-top: 30px;
 }
 #jj {
-    width: 35%;
+   
+    margin-right: 0px;
+    float: left;
+}
+#ng {
+    float: right;
+  
+    margin-left: 0px;
 }
 html, body {
     height: 100%;
