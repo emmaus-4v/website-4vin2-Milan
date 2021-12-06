@@ -4,7 +4,7 @@
     height: 20px;
 }
 body {background-color: rgb(100, 33, 12);
-color:white;
+    color:white;
 }
 #h1G {
   text-align: center;
@@ -68,7 +68,7 @@ ol {
     margin-left: 0px;
   
 }
-#body {
+.body {
     height: 110%;
 }
 html, body {
@@ -146,13 +146,9 @@ nav li a {
     text-decoration: none;
    
 }
-
 nav li a:hover {
     background-color: #aaaaaa;
 }
-
 nav li a.active {
     background-color: skyblue;
 }
-
-
