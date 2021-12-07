@@ -2,6 +2,7 @@
 #h1{
     text-align: center;
     height: 20px;
+ 
 }
 body {background-color: rgb(100, 33, 12);
     color:white;
@@ -78,8 +79,18 @@ ol {
 }
 #gif {
     float: right;
-    margin: 0px;
+    margin-left: 20px;
     padding: 0px;
+}
+#kleine-stofstorm {
+   float: right;
+   width: 40%;
+   height: 300px;
+ 
+}
+#tekst {
+   text-align: center;
+   padding-right: 250px;
 }
 html, body {
     height: 100%;
