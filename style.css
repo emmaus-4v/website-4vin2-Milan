@@ -61,11 +61,11 @@ ol {
   
     margin-right: 0px;
     float: left;
-    border: #ffffff dotted 5px;
+    border: skyblue dotted 5px;
 }
 #ng {
     float: right;
-  border: white dotted 5px;
+  border: skyblue dotted 5px;
     margin-left: 0px;
   
 }
@@ -75,7 +75,8 @@ ol {
 
 #stofstorm {
     float: right;
-    margin-right: 70px;
+    padding-bottom: 50px;
+    padding-right: 150px;
 }
 #gif {
     float: right;
@@ -84,13 +85,16 @@ ol {
 }
 #kleine-stofstorm {
    float: right;
-   width: 40%;
+   width: 32%;
    height: 300px;
- 
 }
 #tekst {
    text-align: center;
-   padding-right: 250px;
+   padding-right: 200px;
+}
+#rickroll {
+    text-decoration: none;
+    color: white;
 }
 html, body {
     height: 100%;
@@ -138,11 +142,11 @@ img.zweefLinks {
 
 a {
     color: skyblue;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline
 }
 
 
