@@ -2,7 +2,6 @@
 #h1{
     text-align: center;
     height: 20px;
- 
 }
 body {background-color: rgb(100, 33, 12);
     color:white;
@@ -75,8 +74,8 @@ ol {
 
 #stofstorm {
     float: right;
-    padding-bottom: 50px;
-    padding-right: 150px;
+    padding-bottom: 80px;
+    padding-right: 5px;
 }
 #gif {
     float: right;
