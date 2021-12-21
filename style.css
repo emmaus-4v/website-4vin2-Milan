@@ -21,6 +21,8 @@ body {background-color: rgb(100, 33, 12);
 
 #plaatje-Mars {
     text-align: center;
+    margin-right: 0;
+    padding: 0;
 }
 #manen {
     float: right;
@@ -102,48 +104,35 @@ html, body {
     color: #ffffff;
     font: Verdana, Arial, Sans-Serif;
 }
-
-
 main {
     margin: 0 auto;
 
     position: relative;
 }
-
-
 article {
     text-align: justify;
 }
-
-
 header {
     color: white;
     text-align: center;
 }
-
-
 footer {
     text-align: center;
     padding-bottom: 10px;
 }
-
-
 /* specifieke stijlen */
 
 img.zweefLinks {
     float: left;
     margin-right: 15px;
 }
-
 .smalltext {
     font-size: 0.7em;
 }
-
 a {
     color: skyblue;
     text-decoration: underline;
 }
-
 a:hover {
     text-decoration: underline
 }
